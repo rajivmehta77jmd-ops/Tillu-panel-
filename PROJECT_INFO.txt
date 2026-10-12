@@ -1,0 +1,6 @@
+Project: TILLU HACKER RGB Panel
+Platform: Android / Kotlin
+Target device: Motorola Edge 60 Fusion (Android version-dependent)
+Type: Android Studio source project
+Contains: draggable floating bubble, live CPU/RAM/battery metrics, local profile selector
+Does not contain: ESP, silent aim, game memory hooks, anti-cheat bypass
